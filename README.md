@@ -1,2 +1,2 @@
-# Python_Stydy_Node
+# Python_Study_Node
 python学习笔记
